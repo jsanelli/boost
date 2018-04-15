@@ -1,2 +1,1 @@
-[Build a Simple Program Using Boost](https://www.boost.org/doc/libs/1_67_0/more/getting_started/unix-variants.html#build-a-simple-program-using-boost)  
-./buildExample  
+# [Casual experiments with Boost C libraries](https://github.com/jsanelli/boost/wiki)
